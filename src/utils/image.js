@@ -1,0 +1,1 @@
+export const busImage = require('./bus.jpg');
